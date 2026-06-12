@@ -1,0 +1,41 @@
+ItemID,SentimentText,PredictedSentiment,HumanSentiment
+3,"omg its already 7:30 :O",1,Positif
+7,"Juuuuuuuuuuuuuuuuussssst Chillin!!",1,Positif
+8,"Sunny Again Work Tomorrow :-| TV Tonight",1,Légèrement positif / Neutre+
+10,"hmmmm.... i wonder how she my number @-)",1,Positif (curiosité légère)
+11,"I must think about positive..",1,Positif (volonté de se motiver)
+15,"ok thats it you win.",1,Neutre (peut être ironique ou résigné)
+18,"Feeling strangely fine. Now I'm gonna go listen to some Semisonic to celebrate",1,Positif
+20,"I just cut my beard off... gonna start it over. @shaunamanu is happy",1,Positif doux (acceptation)
+22,"wompppp wompp",1,Négatif (expression de déception ou d’ennui)
+23,"You're the only one who can see this... you're pretty awesome",1,Positif
+25,"Headed to Hospitol : Had to pull out of the Golf Tourny in 3rd place!!!!!!!!!!!",1,Négatif (hôpital + blessure → pas vraiment positif)
+33,"-- Meet your Meat http://bit.ly/15SSCI",1,Neutre (pas assez d’émotion)
+34,"My horsie is moving on Saturday morning.",1,Légèrement positif (peut être excitation)
+36,"Cant Waiit Till I Have My Walk In One Yay",1,Positif enthousiaste
+37,"SOX! Floyd was great, but relievers need a scolding!",1,Légèrement positif (mais critique)
+39,"uploading pictures on friendster",1,Neutre (activité normale, pas d’émotion forte)
+42,"i wrote something last week... got a call from someone in the new york office...",1,Positif (bonne nouvelle)
+44,"CHRIS CORNELL IN CHICAGO! ... TONIGHT!",1,Positif enthousiaste
+48,"All Time Low shall be my motivation for the rest of the week.",1,Positif (motivation)
+70,"I need a U2 fix NOW!",1,Positif / Enthousiaste
+1,"is so sad for my APL friend.............",0,Négatif (empathie triste)
+2,"I missed the New Moon trailer...",0,Négatif (déception)
+4,"I've been at this dentist since 11.. supposed 2 just get a crown (30mins)...",0,Négatif (frustration)
+5,"i think mi bf is cheating on me!!!",0,Négatif (angoisse)
+9,"handed in my uniform today. i miss you already",0,Négatif (manque)
+12,"thanks to all the haters up in my face all day! 112-102",0,Négatif (sarcastique / agressif)
+13,"this weekend has sucked so far",0,Négatif
+17,"I'm completely useless rt now. Funny, all I can do is twitter.",0,Négatif (découragement)
+19,"HUGE roll of thunder just now...SO scary!!!!",0,Négatif (peur)
+21,"Very sad about Iran.",0,Négatif
+24,"Sad level is 3... massive blog lost *lays in fetal position*",0,Négatif
+26,"BoRinG ): whats wrong with him?? Please tell me........ :-/",0,Négatif
+27,"can't be bothered. i wish i could spend the rest of my life just sat here",0,Négatif (apathie)
+30,"I didn't realize it was THAT deep. Geez give a girl a warning atleast!",0,Légèrement négatif (surprise mauvaise)
+31,"I hate it when any athlete appears to tear an ACL on live television.",0,Négatif (aversion / empathie)
+32,"i miss you guys too",0,Négatif doux (manque)
+35,"No Sat off...Need to work 6 days a week",0,Négatif (fatigue / plainte)
+40,"virus? my brother downloaded one. MSN is now fucked forever :'(",0,Négatif
+45,"... health class (what a joke!)",0,Négatif (dérision)
+47,"it really makes me sad when i look at Muslims reality now",0,Négatif

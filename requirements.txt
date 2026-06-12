@@ -1,0 +1,5 @@
+Prérequis :
+scikit-learn
+panda
+matplotlib
+seaborn
