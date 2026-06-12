@@ -8,15 +8,14 @@ Le projet a pour but d'effectuer une classification de tweets selon leur connota
 
 ## Architecture du projet
 
-- Le code du projet est disponible dans le dossier "src". Chaque algorithme est écrit dans un fichier différent contenu dans le dossier "src/algo". Le code de chaque algo contient 2 fonctions : une servant à l’entraîner, l’autre servant à l’évaluer. Afin de faciliter la correction, une version entraînée de chaque modèle est disponible dans le dossier "models".
-- Le dossier img contient les courbes et graphiques utilisés pour évaluer les modèles.
+- Le code du projet est disponible dans le dossier "src". Chaque algorithme est écrit dans un fichier différent contenu dans le dossier "src/algo". Le code de chaque algo contient 2 fonctions : une servant à l’entraîner, l’autre servant à l’évaluer.
 - Le dossier Backup contient les fichiers train.csv ou test.csv afin de pouvoir relancer aisément le projet si le fichier training_data.csv vient à être corrompu.
 
 -> Pour chaque fichier, des commentaires sont disponibles pour comprendre plus en détail le code mis en place.
 
 ## Exécution du projet
 
-Afin de faciliter la prise en main et la compréhension de mon projet, un petit menu permettant d’entraîner et d’évaluer des modèles a été mis en place. Pour lancer celui-ci, il suffit de faire "python training.py" dans le dossier /src.
+Afin de faciliter la prise en main et la compréhension du projet, un petit menu permettant d’entraîner et d’évaluer des modèles a été mis en place. Pour lancer celui-ci, il suffit de faire "python training.py" dans le dossier /src.
 
 La construction des fichiers "test_data.csv" ainsi que "test_prediction.csv" se fait en lançant "python test.py". La construction de ses fichiers n'est pas possible via le menu car l'explication du choix du modèle ainsi que l'analyse des résultats obtenus est déjà disponible dans le rapport. 
 
