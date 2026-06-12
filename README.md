@@ -2,6 +2,10 @@
 
 # TP1 - INF7370 - Apprentissage Automatique
 
+**IMPORTANT** : Les détails concernant le choix des caractéristiques, le prétraitement des données, ainsi que l'analyse comparative des algorithmes sont disponibles dans le fichier **rapport_Jallais_Bastien_TP1**.
+
+Le projet a pour but d'effectuer une classification de tweets selon leur connotation positive ou négative. Pour cela, plusieurs algorithmes sont utilisés afin de tester leur fonctionnement et d'évaluer quantitativement les résultats.
+
 ## Architecture du projet
 
 - Le code du projet est disponible dans le dossier "src". Chaque algorithme est écrit dans un fichier différent contenu dans le dossier "src/algo". Le code de chaque algo contient 2 fonctions : une servant à l’entraîner, l’autre servant à l’évaluer. Afin de faciliter la correction, une version entraînée de chaque modèle est disponible dans le dossier "models".
