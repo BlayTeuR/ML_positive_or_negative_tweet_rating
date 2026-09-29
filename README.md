@@ -45,6 +45,6 @@ python test.py       # predictions on the unlabeled test set -> test_predictions
 ```
 Base and grid-searched models are saved in `src/models/base` and `src/models/opt_results`. The v2 training and evaluation scripts live in `version_2/`. *(The v2 feature-extraction script still needs to be committed so that v2 can be reproduced.)*
 
-📄 Full report (FR): [`rapport_Jallais_Bastien_TP1.pdf`](./rapport_Jallais_Bastien_TP1.pdf)
+Full report (FR): [`rapport_Jallais_Bastien_TP1.pdf`](./rapport_Jallais_Bastien_TP1.pdf)
 
 **Stack:** Python · scikit-learn · pandas · Matplotlib / Seaborn
